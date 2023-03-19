@@ -32,3 +32,27 @@ Francysk Skaryna Gomel State University
 
 **Courses and trening:** in now I'm learning "HTML, CSS, and Javascript for Web Developers" Coursera courses.
 **RS-school:** JS / FRONT-END. STAGE 0 (RU) - 2022Q4.
+
+**Code Example:**
+```
+function findMissing(arr1, arr2) {
+  arr1.sort();
+  arr2.sort();
+  
+  for (var i = 0; i < arr1.length; i++) {
+    if(arr1[i] != arr2[i]) {
+      return arr1[i];
+    }
+  }
+}
+```
+
+*************
+
+**Languages:**
+
+* Russian - native speaker.
+
+* Czech - B1.
+
+* English - A2
