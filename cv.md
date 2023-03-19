@@ -1,3 +1,4 @@
+![IMG_20220930_1705534](https://raw.githubusercontent.com/rebeljuls/rsschool-cv/gh-pages/IMG_20220930_1705534.jpg)
 # *Yuliya Koval*
 
 
