@@ -142,14 +142,15 @@ h2 {
 }
 
 .img {
- text-align: center; 
- transition: 0.5s;
- }
+  margin-left: 45px;
+ text-align: left; 
+  }
 
 .center-img {
   border: 250px;
-  width: 250px; 
+  width: 200px; 
   height: 250px;
+  border-radius: 7%;
   position: relative;
   display: inline;
   line-height: 1.25;
