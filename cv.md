@@ -1,4 +1,4 @@
-![IMG_20220930_1705534](https://raw.githubusercontent.com/rebeljuls/rsschool-cv/gh-pages/IMG_20220930_1705534.jpg)
+![IMG_20220930_1705534](https://github.com/rebeljuls/rsschool-cv/blob/rsschool-cv-html/IMG_20220930_170553.jpg)
 # *Yuliya Koval*
 
 
@@ -14,7 +14,7 @@
 
 *************
 **About me:** 
-*I'm 32 years old,  I'm from Belarus (Gomel). I worked in bank as economist, but I didn't like my job. At now I live in Czech and I work at prodaction. My dream is edit my life and do that I like. I need in activities where I can develop during my life. 
+*I'm 33 years old,  I'm from Belarus (Gomel). I worked in bank as economist, but I didn't like my job. At now I live in Czech and I worked at prodaction.But now I'm on maternity leave. My dream is edit my life and do that I like. I need in activities where I can develop during my life. 
 I try to always learn new things, because me like. My goal is to gain knowledge in the field of front-end development.*
 
 
@@ -32,7 +32,7 @@ Francysk Skaryna Gomel State University
 
 
 **Courses and trening:** in now I'm learning "HTML, CSS, and Javascript for Web Developers" Coursera courses.
-**RS-school:** JS / FRONT-END. STAGE 0 (RU) - 2022Q4.
+**RS-school:** JavaScript/Front-end Course Pre-school RU - 2024Q2.
 
 **Code Example:**
 ```
